@@ -36,6 +36,6 @@ This script needs Python 3.x. Get it here: [Python website](https://www.python.o
 
    `python jenx.py`
 
-   The second one assume the files are in the same directory with the script.
+   The second one assumes the files are in the same directory with the script.
 
 4. Read the output. It should contain the usernames and passwords.

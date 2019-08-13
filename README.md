@@ -8,7 +8,7 @@ Why not?
 
 ## Install
 
-This script needs Python 3.x. Get it here: [https://www.python.org/downloads/]. Alternatively, you can use Conda (it's much cooler) [https://docs.conda.io/en/latest/]
+This script needs Python 3.x. Get it here: [Python website](https://www.python.org/downloads/). Alternatively, you can use Conda (it's much cooler): [Anaconda website](https://docs.conda.io/en/latest/)
 
 ### Install Dependencies
 

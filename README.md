@@ -39,3 +39,15 @@ This script needs Python 3.x. Get it here: [Python website](https://www.python.o
    The second one assumes the files are in the same directory with the script.
 
 4. Read the output. It should contain the usernames and passwords.
+
+## What's in the name?
+
+It's a portmanteau of Jenkins and jinx (curse).
+
+## Disclaimer
+
+I'm not liable for any damages to what you did with this or anything that happens to you, esp. if you land in jail.
+
+## License
+
+MIT - Technically, "do whatever you want with it."

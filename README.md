@@ -46,7 +46,7 @@ It's a portmanteau of Jenkins and jinx (curse).
 
 ## Disclaimer
 
-I'm not liable for any damages to what you did with this or anything that happens to you, esp. if you are breaking laws in your country.
+I'm not liable for any damages/loss of information/privacy breach attributed to this or anything that happens to you, esp. if you are breaking laws in your country.
 
 ## License
 

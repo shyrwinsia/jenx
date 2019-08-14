@@ -40,6 +40,10 @@ This script needs Python 3.x. Get it here: [Python website](https://www.python.o
 
 4. Read the output. It should contain the usernames and passwords.
 
+## Limitations
+
+Only works with credentials 1.x SystemCredentialsProvider plugin.
+
 ## What's in the name?
 
 It's a portmanteau of Jenkins and jinx (curse).

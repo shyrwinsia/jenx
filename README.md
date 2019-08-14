@@ -46,8 +46,8 @@ It's a portmanteau of Jenkins and jinx (curse).
 
 ## Disclaimer
 
-I'm not liable for any damages to what you did with this or anything that happens to you, esp. if you land in jail.
+I'm not liable for any damages to what you did with this or anything that happens to you, esp. if you are breaking laws in your country.
 
 ## License
 
-MIT - Technically, "do whatever you want with it."
+MIT
